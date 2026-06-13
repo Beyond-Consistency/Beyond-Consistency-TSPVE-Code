@@ -16,5 +16,5 @@ pip install -r requirements.txt
 ```
 ## Usage
 ```bash
-python run_vidtome.py --config xxx.yaml
+python run_experience.py --config xxx.yaml
 ```
